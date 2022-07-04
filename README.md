@@ -7,3 +7,5 @@ Esse é o repositório da resolução do desafio realizado durante o bootcamp fu
 * [HTML básico](https://www.w3schools.com/html/)
 * [CSS básico](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+### Visual da aplicação
+![screenshot](./img/screenshot.png "Visual da aplicação") 
